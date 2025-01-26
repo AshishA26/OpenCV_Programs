@@ -1,7 +1,9 @@
 # Background Subtraction
 Background subtraction is process for creating a foreground mask. Removes the background (static objects) and keeps only the moving objects in frame.
 
-![Image](image.png)
+<p align="center">
+  <img src="image.png" />
+</p>
 
 Code and notes from various tutorials. See the [Links](#links) section.
 
