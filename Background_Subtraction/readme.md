@@ -43,6 +43,6 @@ Other (more common and newer) methods are MOG2 and KNN.
 See `background_subtraction_mog2_knn.py`.
 
 ## Links
-- [LearnOpenCV | Background Estimation](https://learnopencv.com/simple-background-estimation-in-videos-using-opencv-c-python/)
+- [Background Estimation | LearnOpenCV](https://learnopencv.com/simple-background-estimation-in-videos-using-opencv-c-python/)
 - [Background Subtraction - Methods built into OpenCV](https://docs.opencv.org/3.4/d8/d38/tutorial_bgsegm_bg_subtraction.html)
 - [Background Subtraction - Updated OpenCV Docs](https://docs.opencv.org/3.4/d1/dc5/tutorial_background_subtraction.html)
