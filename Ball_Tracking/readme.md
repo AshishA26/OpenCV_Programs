@@ -1,5 +1,5 @@
 # Ball Tracking
-Trackes a green object or ball and draws a circular contour around it.
+Tracks a green object or ball and draws a circular contour around it.
 
 See the [Links](#links) section for the tutorial I followed.
 
